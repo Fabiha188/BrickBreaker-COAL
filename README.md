@@ -10,7 +10,23 @@ A classic **Brick Breaker** game built as a **4th Semester COAL (Computer Organi
 - Win / Lose screens
 
 ## 🖼️ Screenshots
-_Screenshots coming soon..._
+
+<p align="center">
+  <img src="screenshots/01-welcome-screen.png" width="45%" />
+  <img src="screenshots/02-enter-player-name.png" width="45%" />
+</p>
+<p align="center">
+  <img src="screenshots/03-main-menu.png" width="45%" />
+  <img src="screenshots/04-select-difficulty.png" width="45%" />
+</p>
+<p align="center">
+  <img src="screenshots/05-gameplay-paused.png" width="45%" />
+  <img src="screenshots/06-level-completed.png" width="45%" />
+</p>
+<p align="center">
+  <img src="screenshots/07-game-over.png" width="45%" />
+  <img src="screenshots/08-winner.png" width="45%" />
+</p>
 
 ## 🛠️ Technologies Used
 - **Language:** Assembly Language
@@ -20,8 +36,7 @@ _Screenshots coming soon..._
 ## 📂 Project Structure
 BrickBreaker-2/
 ├── src/                  # Source code files
-├── docs/
-│   └── screenshots/      # Screenshots for README
+├── screenshots/          # Screenshots for README
 ├── assets/               # Images, sounds
 ├── README.md
 └── ...
