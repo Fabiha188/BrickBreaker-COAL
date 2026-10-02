@@ -1,0 +1,11 @@
+.vs/
+*.ilk
+*.pdb
+*.obj
+*.ipch
+*.db
+*.log
+*.tlog
+*.recipe
+*.idb
+*.user
